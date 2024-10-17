@@ -1,0 +1,5 @@
+{
+    "require": {
+        "pdfshift/pdfshift-php": "^1.0"
+    }
+}

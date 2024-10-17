@@ -1,0 +1,71 @@
+{
+    "_readme": [
+        "This file locks the dependencies of your project to a known state",
+        "Read more about it at https://getcomposer.org/doc/01-basic-usage.md#installing-dependencies",
+        "This file is @generated automatically"
+    ],
+    "content-hash": "d7d38639455e4cb88e51c0526f2f7f02",
+    "packages": [
+        {
+            "name": "pdfshift/pdfshift-php",
+            "version": "v1.0.9",
+            "source": {
+                "type": "git",
+                "url": "https://github.com/pdfshift/pdfshift-php.git",
+                "reference": "f6c94a09d7e40617102bf3476be6e8d1ccf66928"
+            },
+            "dist": {
+                "type": "zip",
+                "url": "https://api.github.com/repos/pdfshift/pdfshift-php/zipball/f6c94a09d7e40617102bf3476be6e8d1ccf66928",
+                "reference": "f6c94a09d7e40617102bf3476be6e8d1ccf66928",
+                "shasum": ""
+            },
+            "require": {
+                "php": ">=5.3.0"
+            },
+            "type": "library",
+            "autoload": {
+                "psr-4": {
+                    "PDFShift\\": "src/"
+                }
+            },
+            "notification-url": "https://packagist.org/downloads/",
+            "license": [
+                "MIT"
+            ],
+            "authors": [
+                {
+                    "name": "Cyril Nicodeme",
+                    "email": "contact@pdfshift.io",
+                    "homepage": "https://pdfshift.io",
+                    "role": "Developer"
+                }
+            ],
+            "description": "Convert HTML documents to PDF using the PDFShift.io API.",
+            "homepage": "https://github.com/pdfshift/pdfshift-php",
+            "keywords": [
+                "api",
+                "convert",
+                "document",
+                "html",
+                "pdf",
+                "pdfshift"
+            ],
+            "support": {
+                "issues": "https://github.com/pdfshift/pdfshift-php/issues",
+                "source": "https://github.com/pdfshift/pdfshift-php/tree/master"
+            },
+            "abandoned": true,
+            "time": "2018-12-10T09:58:58+00:00"
+        }
+    ],
+    "packages-dev": [],
+    "aliases": [],
+    "minimum-stability": "stable",
+    "stability-flags": [],
+    "prefer-stable": false,
+    "prefer-lowest": false,
+    "platform": [],
+    "platform-dev": [],
+    "plugin-api-version": "2.6.0"
+}
